@@ -7,3 +7,17 @@
 .border-thick {
   border-width: 3px;
 }
+
+/* Force exactly ONE background for the chalkboard */
+.reveal .chalkboard {
+  background-image: url("images/paper-grid.svg") !important;
+  background-size: 100% 100% !important;
+  background-repeat: no-repeat !important;
+}
+
+/* Kill any theme overlays/pseudo-elements that may add another grid */
+.reveal .chalkboard::before,
+.reveal .chalkboard::after {
+  content: none !important;
+  background: none !important;
+}
