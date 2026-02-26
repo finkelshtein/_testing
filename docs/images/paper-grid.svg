@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="768" viewBox="0 0 1024 768">
+  <!-- warm paper -->
+  <rect width="1024" height="768" fill="#f6f0df"/>
+
+  <!-- fine grid -->
+  <defs>
+    <pattern id="smallGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#6b6b6b" stroke-opacity="0.18" stroke-width="1"/>
+    </pattern>
+    <pattern id="grid" width="160" height="160" patternUnits="userSpaceOnUse">
+      <rect width="160" height="160" fill="url(#smallGrid)"/>
+      <path d="M 160 0 L 0 0 0 160" fill="none" stroke="#4a4a4a" stroke-opacity="0.18" stroke-width="2"/>
+    </pattern>
+  </defs>
+
+  <rect width="1024" height="768" fill="url(#grid)"/>
+</svg>
