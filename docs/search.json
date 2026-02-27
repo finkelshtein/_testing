@@ -53,7 +53,7 @@
     "href": "index.html#incremental-lists",
     "title": "Introduction to probability",
     "section": "Incremental Lists",
-    "text": "Incremental Lists\nLists can optionally be displayed incrementally:\n\n\nFirst item\nSecond item\nThird item\n\n\n\n Insert pauses to make other types of content display incrementally."
+    "text": "Incremental Lists\nLists can optionally be displayed incrementally:\n\nFirst item\nSecond item\nThird item\n\n\n Insert pauses to make other types of content display incrementally."
   },
   {
     "objectID": "index.html#fragments",
@@ -144,7 +144,7 @@
     "href": "index.html#easy-navigation",
     "title": "Introduction to probability",
     "section": "Easy Navigation",
-    "text": "Easy Navigation\n\nQuickly jump to other parts of your presentation\n\n\n\n\n\n\n\n\n\n\nToggle the slide menu with the menu button (bottom left of slide) to go to other slides and access presentation tools.\n\n\n\nYou can also press mm to toggle the menu open and closed.\nYou can also press gg to toggle ‘Jump To Slide’ modal box to quickly go to one of your slide using its number or id."
+    "text": "Easy Navigation\n\nQuickly jump to other parts of your presentation\n\n\n\n\n\n\n\nToggle the slide menu with the menu button (bottom left of slide) to go to other slides and access presentation tools.\n\n\n\nYou can also press mm to toggle the menu open and closed.\nYou can also press gg to toggle ‘Jump To Slide’ modal box to quickly go to one of your slide using its number or id."
   },
   {
     "objectID": "index.html#jump-to-slide",
@@ -158,7 +158,7 @@
     "href": "index.html#chalkboard",
     "title": "Introduction to probability",
     "section": "Chalkboard",
-    "text": "Chalkboard\n\nFree form drawing and slide annotations\n\n\n\n\n\n\n\n\n\n\nUse the chalkboard button at the bottom left of the slide to toggle the chalkboard.\n\n\n\n\n\n\n\n\n\n\n\n\nUse the notes canvas button at the bottom left of the slide to toggle drawing on top of the current slide.\n\n\n\nYou can also press bb to toggle the chalkboard or cc to toggle the notes canvas."
+    "text": "Chalkboard\n\nFree form drawing and slide annotations\n\n\n\n\n\n\n\nUse the chalkboard button at the bottom left of the slide to toggle the chalkboard.\n\n\n\n\n\n\n\n\n\nUse the notes canvas button at the bottom left of the slide to toggle drawing on top of the current slide.\n\n\n\nYou can also press bb to toggle the chalkboard or cc to toggle the notes canvas."
   },
   {
     "objectID": "index.html#point-of-view",
